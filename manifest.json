@@ -5,7 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Adds a Command to remove Bulletpoints in Front of Headers for one active Document ot use Obsidian together with Logseq",
 	"author": "Paul Clausnitzer",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/PaulCl22",
 	"isDesktopOnly": false
 }
