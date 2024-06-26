@@ -1,6 +1,6 @@
 {
-	"id": "Remove Bullet",
-	"name": "Remove Bulletpoints from Header",
+	"id": "bulletheaders",
+	"name": "BulletHeaders",
 	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Adds a Command to remove Bulletpoints in Front of Headers for one active Document ot use Obsidian together with Logseq",
